@@ -1,0 +1,23 @@
+
+.page-header {
+  padding: 6rem 1rem 4rem;
+}
+.page-nav {
+  margin-top: 2rem;
+  display: flex;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.page-nav a {
+  padding: 0.8rem 2rem;
+  border: 2px solid rgba(255,255,255,0.4);
+  border-radius: 8px;
+  color: #fff;
+  text-decoration: none;
+  transition: background .2s, border-color .2s;
+}
+.page-nav a:hover {
+  background: rgba(255,255,255,.15);
+  border-color: #fff;
+}
