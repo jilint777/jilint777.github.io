@@ -1,5 +1,6 @@
 title: "Jilin Tian"
 description: "Personal Website"
-show_downloads: true
-google_analytics: G-TKBDCHKL2Z
 theme: jekyll-theme-minimal 
+show_downloads: false
+google_analytics: G-TKBDCHKL2Z
+
