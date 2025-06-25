@@ -4,3 +4,7 @@ theme: jekyll-theme-cayman
 show_downloads: false
 google_analytics: G-TKBDCHKL2Z
 
+
+sass:
+  load_paths: ["assets/css"]
+
