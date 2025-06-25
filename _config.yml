@@ -1,0 +1,7 @@
+title: "Jilin Tian"
+description: "Personal Website"
+baseurl: "" # keep this empty for user/organization pages
+url: "https://jilintian.github.io" # your GitHub Pages URL
+theme: jekyll-theme-cayman
+show_downloads: true
+google_analytics: G-TKBDCHKL2Z
